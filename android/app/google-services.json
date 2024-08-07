@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558256352013",
+    "project_id": "food-delivery-720d7",
+    "storage_bucket": "food-delivery-720d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558256352013:android:3f7d55855900255d469e44",
+        "android_client_info": {
+          "package_name": "com.learning.vegi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXNVKW3QtWSiaj6S7fdEgaWpE5rFuO1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
